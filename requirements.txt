@@ -4,7 +4,7 @@ flower==1.2.0
 kombu==5.2.4
 
 # Databases
-psycopg2-binary==2.9.5
+psycopg2-binary==2.9.6
 SQLAlchemy==1.4.44
 sqlalchemy-utils==0.38.3
 mysql-connector-python==8.0.31
